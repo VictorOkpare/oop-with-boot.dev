@@ -1,0 +1,17 @@
+[
+    {
+        "name": "James",
+        "profession_type": "Teacher",
+        "experience": 20
+    },
+    {
+        "name": "Victor",
+        "profession_type": "Software Engineer",
+        "experience": 15
+    },
+    {
+        "name": "Kefe",
+        "profession_type": "Software Developer",
+        "experience": 10
+    }
+]
